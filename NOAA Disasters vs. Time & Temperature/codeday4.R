@@ -1,4 +1,6 @@
-# Ella Walmsley (lines 0-200), Janine Yanes(lines 200-400), Shreya Ghosh (lines 400-600)
+# Code NOT created by group, only comments
+# Code taken from codeday4.pck (provided by teacher)
+# Ella Walmsley (~ lines 0-200), Janine Yanes(~ lines 200-400), Shreya Ghosh (~ lines 400-600)
 
 NOAA <- read.csv("NOAAnew.csv") #loading the dataset (make sure directory is correct)
 head(NOAA) #heading/checking the dataset loaded correctly
