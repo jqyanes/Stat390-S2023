@@ -7,6 +7,6 @@ Build a function which:
   * Test the difference of fit using the F test (Normal theory based)
   
 Advanced part (Can use codeday4.pck, and comment it, but figure out some of the weird stuff. Why is do.sqrt turned off inside the bootstrap?)
-  * Construct Pvalue using linear fit residual bootstrap (Why is this appropriate for testing linearity? Jow do you get Pvalue?)
+  * Construct Pvalue using linear fit residual bootstrap (Why is this appropriate for testing linearity? How do you get Pvalue?)
     Then build bootstrap confidence intervals for the smooth
   * Look at XY bootstrap vs residual (Why is XY bootstrap such a mess for these confidence intervals?)
