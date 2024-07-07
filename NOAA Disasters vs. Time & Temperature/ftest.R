@@ -1,4 +1,4 @@
-#Group: Ella Walmsley, Shreya Ghosh, Janine Yanes
+#Original code by group: Ella Walmsley, Shreya Ghosh, Janine Yanes
 ftest = function(mat = NOAAnew,i = 3,j = 2,zxlab = "Change in Temperature",zylab = "Number of Disasters",zmain,zcol = 2,do.sqrt = F) {
   if(!do.sqrt) {
     zmain = "NOAAnew (square root not taken)"
